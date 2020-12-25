@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>%22Nicholas Bernstein%22</title>
+<link>https://nicholasbernstein.com/show/</link>
+<image> <url>https%3A%2F%2Fnicholasbernstein.com%2Fimages%2Fme.jpg</url> <title>%22Nicholas Bernstein%22</title> <link>https://nicholasbernstein.com/show/</link> </image>
+<description>%22Hi, I%27m Nick. I%27ve been working in IT for over 20 years. This channel is going to try and talk about how to get into IT or DevOps, how to do well once you%27re in there, and some of the questions and issues that come up when you get into the IT industry.%22</description>
+<language>en-us</language>
+<copyright>2020 Nicholas Bernstein, all rights reserved</copyright>
+<lastBuildDate>2020-12-24 21:50:28.456286</lastBuildDate>
+<itunes:owner>
+<itunes:author>Nicholas Bernstein</itunes:author>
+<itunes:email>podcast%40nicholasbernstein.com</itunes:email>
+</itunes:owner>
+<itunes:summary>
+%22Hi, I%27m Nick. I%27ve been working in IT for over 20 years. This channel is going to try and talk about how to get into IT or DevOps, how to do well once you%27re in there, and some of the questions and issues that come up when you get into the IT industry.%22
+</itunes:summary>
+<itunes:subtitle>Defending the world from Stupidity since 1979</itunes:subtitle>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>Technology, linux, devops, IT, career, windows, FreeBSD, kubernetes, software development, open source, oss</itunes:keywords>
+<itunes:image href="https://thumbnails.lbry.com/UCTd7Cqj-oAEONRcG53Pg0ew?type=.jpg" />
+<itunes:category text="Technology"/>
+<pubDate>2020-12-24 21:50:28.609802</pubDate>
+<item>
+<title> lessons-we-can-learn-from-the-end-of </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/lessons-we-can-learn-from-the-end-of/07f752aca4cd197a58d9244e4f9d607ae18c36b4/lessons-we-can-learn-from-the.mp4</link>
+<pubDate>2020-12-19 06:00:30</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/lessons-we-can-learn-from-the-end-of/07f752aca4cd197a58d9244e4f9d607ae18c36b4/lessons-we-can-learn-from-the.mp4</guid>
+<description>
+ In this video I talk about the concept of %22Two is one and one is none%22 and the end of support for centos linux. I talk about how to consider approaching things, and the idea of making sure you have more than one operating system or vendor where you have critical resources.%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyDsgS8Ui9Ck
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/lessons-we-can-learn-from-the-end-of/07f752aca4cd197a58d9244e4f9d607ae18c36b4/lessons-we-can-learn-from-the.mp4" length="67790776" type="video/mp4"/>
+<itunes:duration>1777</itunes:duration>
+<itunes:summary>In this video I talk about the concept of %22Two is one and one is none%22 and the end of support for centos linux. I talk about how to consider approaching things, and the idea of making sure you have more than one operating system or vendor where you have critical resources.%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyDsgS8Ui9Ck</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/yDsgS8Ui9Ck"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, unix</itunes:keywords>
+</item>
+<item>
+<title> lbry-update-a-viable-youtube-alternative </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/lbry-update-a-viable-youtube-alternative/d00c0b48206a7c326861ead31e06d1ee9d37e37d/lbry-update-a-viable-youtube.mp4</link>
+<pubDate>2020-12-13 19:32:35</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/lbry-update-a-viable-youtube-alternative/d00c0b48206a7c326861ead31e06d1ee9d37e37d/lbry-update-a-viable-youtube.mp4</guid>
+<description>
+ In this video I talk about the LBRY protocol%2Fplatform and how much it%27s improved in the last year and a half or so since I did an initial video on it. %0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKNJaRJdsu-c
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/lbry-update-a-viable-youtube-alternative/d00c0b48206a7c326861ead31e06d1ee9d37e37d/lbry-update-a-viable-youtube.mp4" length="120987833" type="video/mp4"/>
+<itunes:duration>1211</itunes:duration>
+<itunes:summary>In this video I talk about the LBRY protocol%2Fplatform and how much it%27s improved in the last year and a half or so since I did an initial video on it. %0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKNJaRJdsu-c</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/KNJaRJdsu-c"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, unix</itunes:keywords>
+</item>
+<item>
+<title> freebsd-desktop-setup-easy-mode-vlog-it </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/freebsd-desktop-setup-easy-mode-vlog-it/8e52f72791b01b5b4f3f160f0607667eb2a9b59e/freebsd-desktop-setup-easy.mp4</link>
+<pubDate>2020-12-03 08:15:43</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/freebsd-desktop-setup-easy-mode-vlog-it/8e52f72791b01b5b4f3f160f0607667eb2a9b59e/freebsd-desktop-setup-easy.mp4</guid>
+<description>
+ In this video I talk about how to how a script I wrote to help people get a working freebsd desktop configured, in the hope that it will make it easier for people who are new to freebsd get started as easily as possible, especially if they%27re coming from a linux environment.%0A%0A%0A%0AHere%27s a link to the script%3A https%3A%2F%2Fgithub.com%2Fnicholasbernstein%2Finstall-fbsd-desktop%0A%0A%0A%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2Gv5bY77-j8
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/freebsd-desktop-setup-easy-mode-vlog-it/8e52f72791b01b5b4f3f160f0607667eb2a9b59e/freebsd-desktop-setup-easy.mp4" length="162772252" type="video/mp4"/>
+<itunes:duration>1820</itunes:duration>
+<itunes:summary>In this video I talk about how to how a script I wrote to help people get a working freebsd desktop configured, in the hope that it will make it easier for people who are new to freebsd get started as easily as possible, especially if they%27re coming from a linux environment.%0A%0A%0A%0AHere%27s a link to the script%3A https%3A%2F%2Fgithub.com%2Fnicholasbernstein%2Finstall-fbsd-desktop%0A%0A%0A%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2Gv5bY77-j8</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/2Gv5bY77-j8"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, unix</itunes:keywords>
+</item>
+<item>
+<title> free-google-kubernetes-workshop-linux </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/free-google-kubernetes-workshop-linux/0451daeb8bc395eb5cbeaead0547374ad2b0866a/free-google-kubernetes.mp4</link>
+<pubDate>2020-07-26 17:00:00</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/free-google-kubernetes-workshop-linux/0451daeb8bc395eb5cbeaead0547374ad2b0866a/free-google-kubernetes.mp4</guid>
+<description>
+ You can sign up for the free GKE webinar and%2For the free LPI linux class for anyone who%27s been laid off due to Covid19 at the following link%3A%0A%0A%0Ahttps%3A%2F%2Fforms.gle%2FRuyvYH81dGFTcu5r7%0A%0A%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfH36-m3SmUY
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/free-google-kubernetes-workshop-linux/0451daeb8bc395eb5cbeaead0547374ad2b0866a/free-google-kubernetes.mp4" length="30085659" type="video/mp4"/>
+<itunes:duration>323</itunes:duration>
+<itunes:summary>You can sign up for the free GKE webinar and%2For the free LPI linux class for anyone who%27s been laid off due to Covid19 at the following link%3A%0A%0A%0Ahttps%3A%2F%2Fforms.gle%2FRuyvYH81dGFTcu5r7%0A%0A%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfH36-m3SmUY</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/fH36-m3SmUY"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, unix</itunes:keywords>
+</item>
+<item>
+<title> systems-engineering-non-technical </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/systems-engineering-non-technical/1f6e934f3c66ab4382faf4a5bc4bd00648163241/systems-engineering-non.mp4</link>
+<pubDate>2020-07-08 14:57:25</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/systems-engineering-non-technical/1f6e934f3c66ab4382faf4a5bc4bd00648163241/systems-engineering-non.mp4</guid>
+<description>
+ In this video I talk about using systems engineering techniques like formal root cause analysis to try and make sense of what is going on in the world, and to try and make sure that the changes we make to our society in order to make things better actually do.%0A%0A%0A%0APhoto in thumbnail%3A %22IMG_5659%22 by aelin.elliott is licensed under CC BY 2.0 %0A%0A%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHovRe4nRh7M
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/systems-engineering-non-technical/1f6e934f3c66ab4382faf4a5bc4bd00648163241/systems-engineering-non.mp4" length="155764488" type="video/mp4"/>
+<itunes:duration>2117</itunes:duration>
+<itunes:summary>In this video I talk about using systems engineering techniques like formal root cause analysis to try and make sense of what is going on in the world, and to try and make sure that the changes we make to our society in order to make things better actually do.%0A%0A%0A%0APhoto in thumbnail%3A %22IMG_5659%22 by aelin.elliott is licensed under CC BY 2.0 %0A%0A%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHovRe4nRh7M</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/HovRe4nRh7M"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, blm, bsd, defund the police, devops, discussion, george floyd, how to, it career, it jobs, linux, linux admin, linux administration, networking, police reform, recareering, root cause analysis, social justice, sysadmin, systems administration, systems engineering, tech talk, unix, science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> upgrading-a-netapp-simulator-vlog-it-and </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/upgrading-a-netapp-simulator-vlog-it-and/17c1944e3733881b732bb37a8993b7c50c078b4d/upgrading-a-netapp-simulator.mp4</link>
+<pubDate>2020-06-01 12:33:49</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/upgrading-a-netapp-simulator-vlog-it-and/17c1944e3733881b732bb37a8993b7c50c078b4d/upgrading-a-netapp-simulator.mp4</guid>
+<description>
+ In this video I demo how to do an upgrade on a netapp simulator. This is a great way to do a dry run of a netapp upgrade prior to doing it in production, or just get comfortable with it. It%27s also a good way to take an existing simulator, and maintain your current configuration, but also keep it up-to-date. %0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXHvC1NIAG04
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/upgrading-a-netapp-simulator-vlog-it-and/17c1944e3733881b732bb37a8993b7c50c078b4d/upgrading-a-netapp-simulator.mp4" length="131915568" type="video/mp4"/>
+<itunes:duration>2082</itunes:duration>
+<itunes:summary>In this video I demo how to do an upgrade on a netapp simulator. This is a great way to do a dry run of a netapp upgrade prior to doing it in production, or just get comfortable with it. It%27s also a good way to take an existing simulator, and maintain your current configuration, but also keep it up-to-date. %0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXHvC1NIAG04</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/XHvC1NIAG04"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, cifs, data on tap, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, netapp, networking, nfs, ontap, recareering, sysadmin, systems administration, tech talk, unix, upgrade, science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> free-resources-from-google-cloud-vlog-it </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/free-resources-from-google-cloud-vlog-it/5b330b0cd1c81f4011e8595ad0b56d63f21b6588/free-resources-from-google.mp4</link>
+<pubDate>2020-04-27 18:16:48</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/free-resources-from-google-cloud-vlog-it/5b330b0cd1c81f4011e8595ad0b56d63f21b6588/free-resources-from-google.mp4</guid>
+<description>
+ Since everyone is stuck at home, it%27s not a bad idea to take advantage of the extra time, and use it to explore google quicklabs and use the always free tier services %26 %24300 credit - use it to setup your own server and come up with projects you can put on your resume. %0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxQbJtnslh2Y
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/free-resources-from-google-cloud-vlog-it/5b330b0cd1c81f4011e8595ad0b56d63f21b6588/free-resources-from-google.mp4" length="129420819" type="video/mp4"/>
+<itunes:duration>1372</itunes:duration>
+<itunes:summary>Since everyone is stuck at home, it%27s not a bad idea to take advantage of the extra time, and use it to explore google quicklabs and use the always free tier services %26 %24300 credit - use it to setup your own server and come up with projects you can put on your resume. %0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxQbJtnslh2Y</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/xQbJtnslh2Y"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, unix, science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> ubuntu-20-04-lts-first-look-quarantine </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/ubuntu-20-04-lts-first-look-quarantine/995d02e03992d5a65b09b50908a6e6eeec376616/ubuntu-20-04-lts-first-look.mp4</link>
+<pubDate>2020-04-19 14:03:24</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/ubuntu-20-04-lts-first-look-quarantine/995d02e03992d5a65b09b50908a6e6eeec376616/ubuntu-20-04-lts-first-look.mp4</guid>
+<description>
+ In this livestream, we take a look at the Ubuntu 20.04LTS  beta%0A%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DL8pqzcFc1Vk
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/ubuntu-20-04-lts-first-look-quarantine/995d02e03992d5a65b09b50908a6e6eeec376616/ubuntu-20-04-lts-first-look.mp4" length="259794570" type="video/mp4"/>
+<itunes:duration>5043</itunes:duration>
+<itunes:summary>In this livestream, we take a look at the Ubuntu 20.04LTS  beta%0A%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DL8pqzcFc1Vk</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/L8pqzcFc1Vk"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, unix, science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> nicholas-bernstein-live-stream-1 </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/nicholas-bernstein-live-stream-1/2e55392ea6da9dbf37ab72b62380baa232e1a3c6/nicholas-bernstein-live-stream.mp4</link>
+<pubDate>2020-04-11 19:05:55</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/nicholas-bernstein-live-stream-1/2e55392ea6da9dbf37ab72b62380baa232e1a3c6/nicholas-bernstein-live-stream.mp4</guid>
+<description>
+ The audio doesn%27t work for the first part of the video, but that%27s fixed pretty quickly. Skip about 5 minutes in.%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUJ9ZkY1LfVU
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/nicholas-bernstein-live-stream-1/2e55392ea6da9dbf37ab72b62380baa232e1a3c6/nicholas-bernstein-live-stream.mp4" length="110442744" type="video/mp4"/>
+<itunes:duration>1983</itunes:duration>
+<itunes:summary>The audio doesn%27t work for the first part of the video, but that%27s fixed pretty quickly. Skip about 5 minutes in.%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUJ9ZkY1LfVU</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/UJ9ZkY1LfVU"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> a-very-depressing-pythons-script-vlog </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/a-very-depressing-pythons-script-vlog/12b8b2338013e61f9e3b6af34c87b8ba09b7da97/a-very-depressing-pythons.mp4</link>
+<pubDate>2020-04-05 23:56:54</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/a-very-depressing-pythons-script-vlog/12b8b2338013e61f9e3b6af34c87b8ba09b7da97/a-very-depressing-pythons.mp4</guid>
+<description>
+ In this video I look at calculating the number of people who will have corona virus based on using the CFR %25 and the speed of doubling to figure out how many people have it as of today. %0A%0A%0A%0Ahttps%3A%2F%2Fgithub.com%2Fnicholasbernstein%2Fmisc-scripts%2Fblob%2Fmaster%2Freverse_corona_count.py%0A%0A%0A%0A4%2F5%2F2020%3A %0A%0AInfected Now%3A 260000 Dead%3A  7020%0AInfected  17 days ago%3A 520000 %28 deaths in  3 days%3A  14040 %29%0AInfected  14 days ago%3A 1040000 %28 deaths in  6 days%3A  28080 %29%0AInfected  11 days ago%3A 2080000 %28 deaths in  9 days%3A  56160 %29%0AInfected  8 days ago%3A 4160000 %28 deaths in  12 days%3A  112320 %29%0AInfected  5 days ago%3A 8320000 %28 deaths in  15 days%3A  224640 %29%0A%0A%0AIf this is correct, we will have 224,640 deaths in the US on 4%2F20%2F2020 by my calculations. Hopefully social distancing will kick in and this will be much lower. %0A%0A%C2%A0--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0WBnNJJwLQo
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/a-very-depressing-pythons-script-vlog/12b8b2338013e61f9e3b6af34c87b8ba09b7da97/a-very-depressing-pythons.mp4" length="86452476" type="video/mp4"/>
+<itunes:duration>1115</itunes:duration>
+<itunes:summary>In this video I look at calculating the number of people who will have corona virus based on using the CFR %25 and the speed of doubling to figure out how many people have it as of today. %0A%0A%0A%0Ahttps%3A%2F%2Fgithub.com%2Fnicholasbernstein%2Fmisc-scripts%2Fblob%2Fmaster%2Freverse_corona_count.py%0A%0A%0A%0A4%2F5%2F2020%3A %0A%0AInfected Now%3A 260000 Dead%3A  7020%0AInfected  17 days ago%3A 520000 %28 deaths in  3 days%3A  14040 %29%0AInfected  14 days ago%3A 1040000 %28 deaths in  6 days%3A  28080 %29%0AInfected  11 days ago%3A 2080000 %28 deaths in  9 days%3A  56160 %29%0AInfected  8 days ago%3A 4160000 %28 deaths in  12 days%3A  112320 %29%0AInfected  5 days ago%3A 8320000 %28 deaths in  15 days%3A  224640 %29%0A%0A%0AIf this is correct, we will have 224,640 deaths in the US on 4%2F20%2F2020 by my calculations. Hopefully social distancing will kick in and this will be much lower. %0A%0A%C2%A0--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0WBnNJJwLQo</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/0WBnNJJwLQo"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, unix, science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> part-2-natting-firewall-proxy-vlog-it </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/part-2-natting-firewall-proxy-vlog-it/dedc24a58f2d36b5365abf3704588bdd77194add/part-2-natting-firewall-proxy.mp4</link>
+<pubDate>2019-11-05 22:55:00</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/part-2-natting-firewall-proxy-vlog-it/dedc24a58f2d36b5365abf3704588bdd77194add/part-2-natting-firewall-proxy.mp4</guid>
+<description>
+ In this video we talk about getting git setup for tracking the configuration and scripts we%27ll use to get our system configured and the choice of how to deal with tracking dependencies. %0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0yCP8WfkSKc
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/part-2-natting-firewall-proxy-vlog-it/dedc24a58f2d36b5365abf3704588bdd77194add/part-2-natting-firewall-proxy.mp4" length="244513211" type="video/mp4"/>
+<itunes:duration>2341</itunes:duration>
+<itunes:summary>In this video we talk about getting git setup for tracking the configuration and scripts we%27ll use to get our system configured and the choice of how to deal with tracking dependencies. %0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0yCP8WfkSKc</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/0yCP8WfkSKc"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, deb, debian, debian packages, devops, discussion, etckeeper, git, how to, it career, it jobs, linux, linux admin, linux administration, linux router, networking, raspberry pi 4, rasperry pi, recareering, router, sysadmin, systems administration, tech talk, unix, science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> part-1-natting-firewall-proxy-vlog-it </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/part-1-natting-firewall-proxy-vlog-it/31b037c10dea0ee4938eeb264299247674764201/part-1-natting-firewall-proxy.mp4</link>
+<pubDate>2019-10-29 16:45:01</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/part-1-natting-firewall-proxy-vlog-it/31b037c10dea0ee4938eeb264299247674764201/part-1-natting-firewall-proxy.mp4</guid>
+<description>
+ https%3A%2F%2F12factor.net%2F%0Ahttps%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProduct_requirements_document%0Ahttps%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSystems_design%0Ahttps%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFunctional_specification%0Ahttps%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSoftware_requirements_specification%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DonV3NFXi5e0
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/part-1-natting-firewall-proxy-vlog-it/31b037c10dea0ee4938eeb264299247674764201/part-1-natting-firewall-proxy.mp4" length="147333636" type="video/mp4"/>
+<itunes:duration>2074</itunes:duration>
+<itunes:summary>https%3A%2F%2F12factor.net%2F%0Ahttps%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProduct_requirements_document%0Ahttps%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSystems_design%0Ahttps%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFunctional_specification%0Ahttps%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSoftware_requirements_specification%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Ahttps%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DonV3NFXi5e0</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/onV3NFXi5e0"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, unix, science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> non-tech-vlog-mainstream-media-not </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/non-tech-vlog-mainstream-media-not/4abffb558756b4a348c0a288f94f02bab62b0869/non-tech-vlog-mainstream-media.mp4</link>
+<pubDate>2019-09-08 19:59:44</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/non-tech-vlog-mainstream-media-not/4abffb558756b4a348c0a288f94f02bab62b0869/non-tech-vlog-mainstream-media.mp4</guid>
+<description>
+ FEEL FREE TO SKIP THIS VIDEO%0A%0A%0AAndrew Yang on Joe Rogan%3A https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcTsEzmFamZ8%0ATulsi Gabbard on Joe Rogan%3A https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkR8UcnwLH24%0A%0ASorry for posting a political video%21 I came across something a friend of mine posted on twitter, and I found it disturbing and wanted to pass it on. Basically Mainstream Media is omitting candidates from coverage, and it%27s really creepy. Despite having a really small channel, I thought it warranted a post.%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Ftinyurl.com%2Fy9568pln%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQd4cDObMu1Q
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/non-tech-vlog-mainstream-media-not/4abffb558756b4a348c0a288f94f02bab62b0869/non-tech-vlog-mainstream-media.mp4" length="46024155" type="video/mp4"/>
+<itunes:duration>688</itunes:duration>
+<itunes:summary>FEEL FREE TO SKIP THIS VIDEO%0A%0A%0AAndrew Yang on Joe Rogan%3A https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcTsEzmFamZ8%0ATulsi Gabbard on Joe Rogan%3A https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkR8UcnwLH24%0A%0ASorry for posting a political video%21 I came across something a friend of mine posted on twitter, and I found it disturbing and wanted to pass it on. Basically Mainstream Media is omitting candidates from coverage, and it%27s really creepy. Despite having a really small channel, I thought it warranted a post.%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Ftinyurl.com%2Fy9568pln%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQd4cDObMu1Q</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/Qd4cDObMu1Q"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, news, technology, andrew yang, bsd, cnn, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, media, msnbc, nbc, networking, recareering, sysadmin, systems administration, tech talk, tulsi gabbard, unix, yangang, yangmediablackout, science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> double-giveaway-lpi-class-dates-and </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/double-giveaway-lpi-class-dates-and/d4ae330cce9788ad23d468985ea4590a4b25020c/double-giveaway-lpi-class.mp4</link>
+<pubDate>2019-07-28 14:30:01</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/double-giveaway-lpi-class-dates-and/d4ae330cce9788ad23d468985ea4590a4b25020c/double-giveaway-lpi-class.mp4</guid>
+<description>
+ In this video I talk about the LPI Linux Essential Friends and Family Class, 1000 Subs RPI giveaway, and a channel overview for the new subscribers who have just joined. %0A%0AI%27d also like to give a big thank you to DT over on the DistroTube youtube channel, for giving me a shout-out. %0A%0A%0ATo signup for the LPI Linux Essentials class on 2019-08-17 %26 18, please email%3A BERNSTEINTRAINING%40GMAIL.COM with the Subject%3A %22FF LPI CLASS%22%0A%0AClass overview%3A https%3A%2F%2Fnicholasbernstein.com%2Fzero-to-scripting-in-4-days-lpi-linux-essentials%2F%0A%0AFor the Raspberry Pi 4 Giveaway, Please email BERNSTEINTRAINING%40GMAIL.COM with the subject %22RPI4 GIVEAWAY%22%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3TrGTxqXzlE
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/double-giveaway-lpi-class-dates-and/d4ae330cce9788ad23d468985ea4590a4b25020c/double-giveaway-lpi-class.mp4" length="114048763" type="video/mp4"/>
+<itunes:duration>1687</itunes:duration>
+<itunes:summary>In this video I talk about the LPI Linux Essential Friends and Family Class, 1000 Subs RPI giveaway, and a channel overview for the new subscribers who have just joined. %0A%0AI%27d also like to give a big thank you to DT over on the DistroTube youtube channel, for giving me a shout-out. %0A%0A%0ATo signup for the LPI Linux Essentials class on 2019-08-17 %26 18, please email%3A BERNSTEINTRAINING%40GMAIL.COM with the Subject%3A %22FF LPI CLASS%22%0A%0AClass overview%3A https%3A%2F%2Fnicholasbernstein.com%2Fzero-to-scripting-in-4-days-lpi-linux-essentials%2F%0A%0AFor the Raspberry Pi 4 Giveaway, Please email BERNSTEINTRAINING%40GMAIL.COM with the subject %22RPI4 GIVEAWAY%22%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3TrGTxqXzlE</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/3TrGTxqXzlE"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, unix, science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> treating-yourself-to-make-studying-more </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/treating-yourself-to-make-studying-more/d88cf827e968ade2275abe080908a2c90214688f/treating-yourself-to-make.mp4</link>
+<pubDate>2019-08-25 14:00:03</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/treating-yourself-to-make-studying-more/d88cf827e968ade2275abe080908a2c90214688f/treating-yourself-to-make.mp4</guid>
+<description>
+ In this video I talk about how buying nice materials to use when studying can be a good way to make studying easier and more enjoyable. %0A%0AHere are some %28amazon affiliate%29 links to the pens %26 notebooks I was talking about in the video%3A %0A%0ANoodlers ahab fountain pen%3A https%3A%2F%2Famzn.to%2F31YnhXl%0Apilot falcon fountain pen%3A https%3A%2F%2Famzn.to%2F31ROhrC%0ALeuchtterm 1917 notebook%3A https%3A%2F%2Famzn.to%2F2Hh5Tpa%0Aclairfontine notebook%3A https%3A%2F%2Famzn.to%2F2Nibyz0%0A%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Ftinyurl.com%2Fy9568pln%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwznO_2Dy7Ic
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/treating-yourself-to-make-studying-more/d88cf827e968ade2275abe080908a2c90214688f/treating-yourself-to-make.mp4" length="46279922" type="video/mp4"/>
+<itunes:duration>658</itunes:duration>
+<itunes:summary>In this video I talk about how buying nice materials to use when studying can be a good way to make studying easier and more enjoyable. %0A%0AHere are some %28amazon affiliate%29 links to the pens %26 notebooks I was talking about in the video%3A %0A%0ANoodlers ahab fountain pen%3A https%3A%2F%2Famzn.to%2F31YnhXl%0Apilot falcon fountain pen%3A https%3A%2F%2Famzn.to%2F31ROhrC%0ALeuchtterm 1917 notebook%3A https%3A%2F%2Famzn.to%2F2Hh5Tpa%0Aclairfontine notebook%3A https%3A%2F%2Famzn.to%2F2Nibyz0%0A%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Ftinyurl.com%2Fy9568pln%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwznO_2Dy7Ic</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/wznO_2Dy7Ic"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, unix, science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> an-easy-way-to-test-if-it-is-the-right </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/an-easy-way-to-test-if-it-is-the-right/77dcc440e86fa99e680485945b111fe4b042b674/an-easy-way-to-test-if-it-is.mp4</link>
+<pubDate>2019-07-15 20:24:09</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/an-easy-way-to-test-if-it-is-the-right/77dcc440e86fa99e680485945b111fe4b042b674/an-easy-way-to-test-if-it-is.mp4</guid>
+<description>
+ In this video I talk about what I think is a good and relatively easy way to see if you will do well in a career in the tech field%3A Get your HAM radio Technician%27s license. It only costs about %2415, and probably won%27t entail more than a week or two%27s worth of studying, but gives a pretty accurate representation of what it%27s like learning new skills and technologies in the tech sector. %0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Ftinyurl.com%2Fy9568pln%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D10qRXGL5RBY
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/an-easy-way-to-test-if-it-is-the-right/77dcc440e86fa99e680485945b111fe4b042b674/an-easy-way-to-test-if-it-is.mp4" length="101357665" type="video/mp4"/>
+<itunes:duration>1204</itunes:duration>
+<itunes:summary>In this video I talk about what I think is a good and relatively easy way to see if you will do well in a career in the tech field%3A Get your HAM radio Technician%27s license. It only costs about %2415, and probably won%27t entail more than a week or two%27s worth of studying, but gives a pretty accurate representation of what it%27s like learning new skills and technologies in the tech sector. %0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Ftinyurl.com%2Fy9568pln%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D10qRXGL5RBY</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/10qRXGL5RBY"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, devops, discussion, ham radio, ham radio technicians license, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, unix, science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> an-easy-mistake-to-make-x2go-vlog-it-and </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/an-easy-mistake-to-make-x2go-vlog-it-and/336456baa67b6124808eb1ffed1e48e0bf2f46e7/an-easy-mistake-to-make-x2go.mp4</link>
+<pubDate>2019-09-22 14:00:11</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/an-easy-mistake-to-make-x2go-vlog-it-and/336456baa67b6124808eb1ffed1e48e0bf2f46e7/an-easy-mistake-to-make-x2go.mp4</guid>
+<description>
+ In this video I talk about an easy Mistake to make  %28and avoid%29 that I was reminded of after watching a %40techlead video about being let go from facebook. I also talk about using x2go to access home machine remotely, which lets you avoid needing to have to do personal stuff on your home machine.%0A%0A--------------------------------------------------%0AFor training info%3A   https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0APatreon%3A                  https%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0A%0AVideos on lbry.io%3A    ttps%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A  %40nickbernstein%40mastodon.social%0ATwitter%3A                    %40nickbernstein%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfseyOEYqWYg
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/an-easy-mistake-to-make-x2go-vlog-it-and/336456baa67b6124808eb1ffed1e48e0bf2f46e7/an-easy-mistake-to-make-x2go.mp4" length="84663458" type="video/mp4"/>
+<itunes:duration>1219</itunes:duration>
+<itunes:summary>In this video I talk about an easy Mistake to make  %28and avoid%29 that I was reminded of after watching a %40techlead video about being let go from facebook. I also talk about using x2go to access home machine remotely, which lets you avoid needing to have to do personal stuff on your home machine.%0A%0A--------------------------------------------------%0AFor training info%3A   https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0APatreon%3A                  https%3A%2F%2Fwww.patreon.com%2FTheNickBernsteinShow%0A%0AVideos on lbry.io%3A    ttps%3A%2F%2Fopen.lbry.io%2F%40nicktrains%3Ab%2F%0AMastadon.social%3A  %40nickbernstein%40mastodon.social%0ATwitter%3A                    %40nickbernstein%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfseyOEYqWYg</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/fseyOEYqWYg"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, corporate laptop, devops, discussion, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, techlead, unix, x2go, science %26 technology</itunes:keywords>
+</item>
+<item>
+<title> advice-for-those-starting-out-in-tech </title>
+<link>https://cdn.lbryplayer.xyz/api/v3/streams/free/advice-for-those-starting-out-in-tech/85e89235fc74eb9c2f014e69bd29d66bf2ba5225/advice-for-those-starting-out.mp4</link>
+<pubDate>2019-08-05 15:53:50</pubDate> UTC
+<guid>https://cdn.lbryplayer.xyz/api/v3/streams/free/advice-for-those-starting-out-in-tech/85e89235fc74eb9c2f014e69bd29d66bf2ba5225/advice-for-those-starting-out.mp4</guid>
+<description>
+ In this video I talk about the process to get started in tech and show the playlist that I recently created for those of you with questions about how to start out. %0A%0AHere%27s a link to the playlist%3A https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL3eOGDNUdQiixhRnHSM5X8AVJr-yKB6Ng%0A%0AHere%27s a link to the video about how to participate in the giveaways%3A https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3TrGTxqXzlE%0A%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Ftinyurl.com%2Fy9568pln%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfxlrNe_zsh0
+</description>
+<enclosure url="https://cdn.lbryplayer.xyz/api/v3/streams/free/advice-for-those-starting-out-in-tech/85e89235fc74eb9c2f014e69bd29d66bf2ba5225/advice-for-those-starting-out.mp4" length="98574281" type="video/mp4"/>
+<itunes:duration>938</itunes:duration>
+<itunes:summary>In this video I talk about the process to get started in tech and show the playlist that I recently created for those of you with questions about how to start out. %0A%0AHere%27s a link to the playlist%3A https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL3eOGDNUdQiixhRnHSM5X8AVJr-yKB6Ng%0A%0AHere%27s a link to the video about how to participate in the giveaways%3A https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3TrGTxqXzlE%0A%0A%0A--------------------------------------------------%0AFor training info%3A https%3A%2F%2Fnicholasbernstein.com%2Ftraining%2F%0Atwitter%3A  %40nickbernstein%0Avideos on lbry.io%3A https%3A%2F%2Ftinyurl.com%2Fy9568pln%0AMastadon.social%3A %40nickbernstein%40mastodon.social%0A...%0Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfxlrNe_zsh0</itunes:summary>
+<itunes:image href="https://thumbnails.lbry.com/fxlrNe_zsh0"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>learning, technology, bsd, devops, discussion, getting started in tech, how to, it career, it jobs, linux, linux admin, linux administration, networking, recareering, sysadmin, systems administration, tech talk, unix, science %26 technology</itunes:keywords>
+</item>
+</channel>
+</rss>
