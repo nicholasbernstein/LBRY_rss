@@ -1,74 +1,84 @@
-#! `env python3`
+#!/usr/bin/python3
 import urllib
 import requests
 import json
 from datetime import datetime, date, time, timezone
 
-
 debug = False
 now = datetime.now()
 URL = 'http://localhost:5279/'
-directlink_prefix="https://cdn.lbryplayer.xyz/api/v3/streams/free"
+directlink_prefix = "https://cdn.lbryplayer.xyz/api/v3/streams/free"
+config_file = "config.json"
 
-#DATA = '{"method": "claim_list", "params": {"claim_type": "stream", "claim_id": [], "name": [], "is_spent": false, "channel_id": "b6fb38d73b14ce3348841b3f9f66263c5d49f2dd", "resolve": false, "no_totals": false, "include_received_tips": false}}'
+def getConfigFromFile(config_file):
+    f = open(config_file, "r")
+    config = json.load(f)
+    f.close()
+    return config
 
-Channel_ID="b6fb38d73b14ce3348841b3f9f66263c5d49f2dd"
-DATA = {
-    "method": "claim_list", 
-    "params": {
-        "claim_type": "stream",
-        "claim_id": [],
-        "name": [], 
-        "is_spent": False,
-        "channel_id": Channel_ID,
-        "resolve": False, 
-        "no_totals": False, 
-        "include_received_tips": False }
-        }
+config = getConfigFromFile(config_file)
 
-DATA = json.dumps(DATA)
-if debug == True:
-    print("DATA OUTPUT AS JSON")
-    print(DATA)
-
-response = requests.post(url = URL, data = DATA) 
-
-response_dict =  response.json()
 def write_raw_js():
     f = open("out.json", "w")
     f.write(json.dumps(response.json(), indent=5))
     f.close()
 
+def getChanInfoFromLBRYandReturnJSON(URL, Channel_ID):
+    DATA = {
+        "method": "claim_list",
+        "params": {
+            "claim_type": "stream",
+            "claim_id": [],
+            "name": [],
+            "is_spent": False,
+            "channel_id": Channel_ID,
+            "resolve": False,
+            "no_totals": False,
+            "include_received_tips": False}}
+
+    DATA = json.dumps(DATA)
+    if debug == True:
+        print("DATA OUTPUT AS JSON")
+        print(DATA)
+
+    response = requests.post(url=URL, data=DATA)
+    return(response) 
+
+response = getChanInfoFromLBRYandReturnJSON(URL, config['channel_id'])
+response_dict =  response.json()
 dict_chaninfo = response_dict['result']['items'][0]['signing_channel']
 
-if debug == True: 
+if debug == True:
     write_raw_js()
     print(json.dumps(dict_chaninfo['value'], indent=5))
 
 itjs = response_dict['result']['items']
 
-# config
-show_title=json.dumps(dict_chaninfo['value']['title'])
-show_subtitle="Defending the world from Stupidity since 1979"
-contact_name="Nicholas Bernstein"
-contact_email="podcast@nicholasbernstein.com"
-copyright="2020 Nicholas Bernstein, all rights reserved"
-image="https://nicholasbernstein.com/images/me.jpg"
-explicit = "No"
-lang="en-us"
-show_url="https://nicholasbernstein.com/show/"
-feed_url="https://nicholasbernstein.com/show_rss.xml"
+# derived config 
+show_title = json.dumps(dict_chaninfo['value']['title'])
 show_description = json.dumps(dict_chaninfo['value']['description'])
-show_description = urllib.parse.quote(show_description, safe=", ", encoding=None, errors=None)
 show_thumbnail_url = json.dumps(dict_chaninfo['value']['thumbnail']['url'])
 show_thumbnail_url = show_thumbnail_url.strip('\"')
-show_category="Technology"
-show_category = urllib.parse.quote(show_category, safe=", ", encoding=None, errors=None)
-content_type="video/mp4"
-pubdt=datetime.now()
-publishdate= pubdt.strftime("%A, %d. %B %Y %I:%M%p")
-show_keywords = "Technology, linux, devops, IT, career, windows, FreeBSD, kubernetes, software development, open source, oss"
-show_keywords = urllib.parse.quote(show_keywords, safe=", ", encoding=None, errors=None)
+
+pubdt = datetime.now()
+publishdate = pubdt.strftime("%A, %d. %B %Y %I:%M%p")
+
+# urlencode things that may include user input that could contain unusual characters that could break things
+show_subtitle = urllib.parse.quote(config['show_subtitle'], safe=", ", encoding=None, errors=None)
+contact_name = urllib.parse.quote(config['contact_name'], safe=", ", encoding=None, errors=None)
+contact_email = urllib.parse.quote(config['contact_email'], safe=", ", encoding=None, errors=None)
+copyright = urllib.parse.quote(config['copyright'], safe=", ", encoding=None, errors=None)
+image = urllib.parse.quote(config['image'], safe=", ", encoding=None, errors=None)
+explicit = config['explicit']
+lang = config['lang']
+show_url = config['show_url']
+feed_url = config['feed_url']
+content_type = config['content_type']
+
+show_category = urllib.parse.quote(config['show_category'], safe=", ", encoding=None, errors=None)
+show_keywords = urllib.parse.quote(config['show_keywords'], safe=", ", encoding=None, errors=None)
+show_description = urllib.parse.quote(show_description, safe=", ", encoding=None, errors=None)
+show_title = urllib.parse.quote(show_title, safe=", ", encoding=None, errors=None)
 
 print('<?xml version="1.0" encoding="UTF-8"?>')
 print('<rss version="2.0" xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">')
@@ -99,9 +109,9 @@ for i in itjs:
     
     keywords = urllib.parse.quote(", ".join(i["value"]["tags"]), safe=", ", encoding=None, errors=None)
     try:
-        file_name=i["value"]["source"]["name"]
-        media_type=i["value"]["source"]["media_type"]
-        description=urllib.parse.quote(i["value"]["description"],safe=", ", encoding=None, errors=None)
+        file_name = i["value"]["source"]["name"]
+        media_type = i["value"]["source"]["media_type"]
+        description = urllib.parse.quote(i["value"]["description"],safe=", ", encoding=None, errors=None)
         
         if media_type == content_type :
             link = "{}/{}/{}/{}".format(directlink_prefix, i["name"], i["claim_id"], file_name)
@@ -127,6 +137,5 @@ for i in itjs:
     except:
         #prints the entire json object for so you can find fields
         failed_items = failed_items + 1 
-        #print(json.dumps(i, indent=5))
 print("</channel>")    
 print("</rss>")    
