@@ -81,7 +81,7 @@ show_description = urllib.parse.quote(show_description, safe=", ", encoding=None
 show_title = urllib.parse.quote(show_title, safe=", ", encoding=None, errors=None)
 
 print('<?xml version="1.0" encoding="UTF-8"?>')
-print('<rss version="2.0" xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">')
+print('<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">')
 print("<channel>")
 print("<title>{}</title>".format(show_title))
 print("<link>{}</link>".format(show_url))
